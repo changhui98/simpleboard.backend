@@ -1,7 +1,7 @@
 ---
-name: "[FEATURE] "
+name: "\U0001F525 FEAT "
 about: CREATE & UPDATE ISSUE
-title: ''
+title: "[FEATURE] "
 labels: ''
 assignees: ''
 
